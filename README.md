@@ -17,3 +17,6 @@ function insertionSort(arr) {
 let array = [5, 2, 4, 6, 1, 3];
 console.log("Unsorted array:", array);
 console.log("Sorted array:", insertionSort(array));
+
+Author: Akeju Mariam
+(@weirdo-dot)
